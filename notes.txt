@@ -1,0 +1,107 @@
+BOOTSTARP:
+============
+
+
+INTTRODUCTION:
+---------------
+** BOOTSTARP IS A  FREE,OPENSOURCE AND IS THE MOST POUPULAR HTML,CSS,JAVASCRIPT FRAMEWORK DEVELOPED BY
+TWITTER FOR CREATING RESPONSIVE WEB APPLICATIONS.
+
+-->IT INCLUDES HTML,CSS,JAVASCRIPT BASED TEMPLATES 
+
+
+**ADVANTAGES OF BOOTSTARP:
+===========================
+
+1) BOOTSTARP SUPPROTS RESPONSIVE WEB DESIGN.(FASTER AND EASIER).
+
+WHAT IS RESPONSIVE WEB APPLICATIONS
+
+* RESPONSIVE WEB APPLICATIONS AUTOMATICALLY ADOPTS SCREEN SIZE.(DESKTOP,LAPTOP,MOBILES,TABLETS..ETC)
+(IT PROVIEDS INTERACTION EXPERIANCE(EASY READING AND NAVIGATION)).
+
+Example(RWD):
+===========
+http://bootstrapdocs.com/v3.0.3/docs/examples/jumbotron/
+
+2)saves lot of development time.(instead writing the code,it offers ready made block of code)
+
+
+3)consistency
+
+4)customizable
+
+http://getbootstrap.com/customize/
+
+
+
+HOW TO CREATE PAGE LAYOUTS USING BOOTSTRAP GRID SYSTEM:-
+=======================================================
+
+
+* BOOTSTARP GRID SYSTEM IS USED FOR CREATING PAGE LAYOUTS THROUGH  A SERIES OF ROWS AND COLUMNS,
+THE GRID SYSTEM CONSISTS OF 12 COLUMNS. 
+
+
+HOW TO CREATE 3 COLUMN LAYOUT USING THE BOOTSTARP GRID SYSTEM?
+
+*THE THREE COLUMN LAYOUT THE PAGE SHOULD BE DEVIDED INTO THREE COLUMNS WITH 1:4:1 RATIO.
+
+*IT SHOULD GIVE 12 UNITS IF WE CALUCULATE  LIKE 2 UNITS+4 UNITS+2 UNITS.
+
+
+*BOOTSTRAP INCLUDED SEVERAL GRID CLASSES FOR CREATING LAYOUTS FOR DIFFERENT DEVICES LIKE MOBILE,PC LAPTOP
+
+
+ BOOTSTRAP GRID CLASSES:-
+ =======================
+	DEVICE      									BOOTSTRAP CLASS
+
+ 1)EXTRA SMALL DEVICES-->MOBILE PHONES(<768PX) 		.col-*
+ 
+ 2)SMALL DEVICES-->TABLETS(>=768PX) 				.col-sm-*
+ 
+ 
+ 3)MEDIAM DEVICES-->laptops(>=992PX) 				.col-md-*
+ 
+ 
+ 4)LARGE DEVICES-->pc(>=1200PX)	 					.col-lg-*
+ 
+ 
+ 4)EXTRA LARGE DEVICES-->pc(>=1200PX)	 			.col-xl-*
+ 
+
+ .col- (extra small devices - screen width less than 576px)
+.col-sm- (small devices - screen width equal to or greater than 576px)
+.col-md- (medium devices - screen width equal to or greater than 768px)
+.col-lg- (large devices - screen width equal to or greater than 992px)
+.col-xl- (xlarge devices - screen width equal to or greater than 1200px)
+ 
+ 
+ 
+
+*  indicates  no of units
+
+Rules:
+======
+**	rows must be in container for proper alignment,padding
+
+**	we used row to create horizantal group of columns.
+
+ **and columns should be child to the rows.
+ 
+ if sum is beyond 12 it will be like new row..(for single row 12 units)
+ 
+ 
+ **if we want create 4 equal columns i.e 1:1:1:1 ratio
+ 
+ 
+ 
+
+
+
+
+
+
+
+
